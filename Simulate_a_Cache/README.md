@@ -35,7 +35,7 @@ The purpose of this project was to demonstrate a practical understanding of how 
   cd Python_Programming_Fundamentals/Simulate_a_Cache
   ```
    
-3. Run the cach simulation program with your input files, You can create your input file or use the provided example files (see 4_way_associative_input.txt and larger_direct_mapped_input.txt)
+3. Run the cach simulation program with your input files, You can create your input file or use the provided example files (see [4_way_associative_input.txt](./4_way_associative_input.txt) and [larger_direct_mapped_input.txt](./larger_direct_mapped_input.txt).)
 
 ```bash
 python cache.py < input_file.txt
