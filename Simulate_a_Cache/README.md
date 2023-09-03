@@ -29,7 +29,7 @@ The purpose of this project was to demonstrate a practical understanding of how 
      git clone https://github.com/corinnee/Python_Programming_Fundamentals.git
    ```
 
-2. Navigate to the project sub directory:
+2. Navigate to the project subdirectory:
 
   ```bash
     cd Python_Programming_Fundamentals/Simulate_a_Cache
