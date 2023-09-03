@@ -26,13 +26,13 @@ The purpose of this project was to demonstrate a practical understanding of how 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/corinnee/Python_Programming_Fundamentals.git
+     git clone https://github.com/corinnee/Python_Programming_Fundamentals.git
    ```
 
 2. Navigate to the project sub directory:
 
   ```bash
-  cd Python_Programming_Fundamentals/Simulate_a_Cache
+    cd Python_Programming_Fundamentals/Simulate_a_Cache
   ```
    
 3. Run the cach simulation program with your input files, You can create your input file or use the provided example files (see [4_way_associative_input.txt](./4_way_associative_input.txt) and [larger_direct_mapped_input.txt](./larger_direct_mapped_input.txt).)
