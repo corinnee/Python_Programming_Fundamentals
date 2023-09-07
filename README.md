@@ -1,5 +1,5 @@
 # Python_Programming_Fundamentals
-Projects that showcase fundamental and beginner Python programming techniques.
+Projects that showcase fundamental and beginner Python programming projects.
 
 ## Projects
 - [Simulate A Cache](./Simulate_a_Cache/README.md)
